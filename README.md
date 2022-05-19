@@ -5,7 +5,7 @@ I'm interested in:<br>
 📌 personal knowledge management<br>
 📌 boardgame design
 
-Not a coder by trade, just an amateur enthusiast.<br> I enjoy Markdown, R, LaTeX, CSS and HTML.
+Not a coder by trade, just an amateur enthusiast.<br> I use Markdown, R, LaTeX, CSS and HTML.
 
 <!---
 iagma0/iagma0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
