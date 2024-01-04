@@ -2,9 +2,9 @@
 
 I'm interested in:<br>
 📌 linguistics<br>
+📌 corpora, CAQDAS and computation<br>
 📌 personal knowledge management<br>
-📌 conlanging<br>
-📌 worldbuilding<br>
-📌 boardgame design
+📌 worldbuilding and conlanging<br>
+📌 boardgame design and system modelling
 
 Projects in Markdown, Python, R, LaTeX, CSS and HTML.
