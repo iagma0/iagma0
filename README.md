@@ -4,7 +4,7 @@ I'm interested in:<br>
 📌 linguistics<br>
 📌 corpora, CAQDAS and computation<br>
 📌 personal knowledge management<br>
-📌 worldbuilding and conlanging<br>
+📌 writing and worldbuilding<br>
 📌 boardgame design and system modelling
 
 Projects in Markdown, Python, R, LaTeX, CSS and HTML.
